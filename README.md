@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+(https://github-readme-streak-stats.herokuapp.com/?user=Vidushi1610)](https://git.io/streak-stats)
+
+
 <!--
 **Vidushi1610/Vidushi1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
