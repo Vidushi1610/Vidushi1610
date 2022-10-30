@@ -3,7 +3,6 @@
 ### Hi there 👋
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidushi1610)](https://git.io/streak-stats)
 
 
