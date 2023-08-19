@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm Vidushi Singhal</h1>
-<h3 align="center">A Final Year student pursuing my B.Tech in Computer Science with specialization in Cloud Computing. Seeking to leverage high-level understanding of AWS and I am also passionate about Machine Learning and data analytics.</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
